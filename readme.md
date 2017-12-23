@@ -1,7 +1,7 @@
 # Fix Sketch Trackpad Speed
 This plugin speeds up scrolling across all artboards.
 
-**1. Install** via <a href="http://sketchrunner.com">Sketch Runner</a> or <a href="https://sketchpacks.com/pravdomil/FixSketchTrackpadSpeed">Sketchpacks</a>.
+**1. Install** via [Sketch Runner](http://sketchrunner.com) or [Sketchpacks](https://sketchpacks.com/pravdomil/FixSketchTrackpadSpeed).
 <img src="runner.png">
 
 **2. Use** as long as you want.
