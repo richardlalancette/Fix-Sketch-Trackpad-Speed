@@ -8,6 +8,8 @@ This plugin speeds up scrolling across all artboards.
 
 **3. Donate** [buy a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=Fix%20Sketch%20Trackpad%20Speed%20Beer).
 
+![preview](gif.gif)
+
 ----
 
 [More plugins from author](https://pravdomil.com/#sketch).
