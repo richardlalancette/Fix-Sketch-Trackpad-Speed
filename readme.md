@@ -1,6 +1,6 @@
 # Fix Sketch Trackpad Speed
 
-This plugin speeds up scrolling across all artboards.
+Sketch plugin that speeds up scrolling across all artboards.
 
 ![preview](gif.gif)
 
