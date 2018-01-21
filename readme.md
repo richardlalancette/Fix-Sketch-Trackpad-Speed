@@ -6,6 +6,8 @@ Sketch plugin that speeds up scrolling across all artboards.
 
 **Install** via [Sketch Runner](http://sketchrunner.com) or [Sketchpacks](https://sketchpacks.com/pravdomil/FixSketchTrackpadSpeed).
 
+[More details and discussion](http://sketchplugins.com/d/481-mscontentdrawview-scrollwheelscroll-and-calculating-sketch-viewport).
+
 [More plugins from author](https://pravdomil.com/#sketch).
 
 ## Backers
