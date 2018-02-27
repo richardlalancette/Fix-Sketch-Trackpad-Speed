@@ -1,4 +1,4 @@
-<img src="gif.gif" align="right">
+<img src="gif.gif" align="right"/>
 
 # Fix Sketch Trackpad Speed
 
