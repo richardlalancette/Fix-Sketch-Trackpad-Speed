@@ -11,13 +11,13 @@ function onStart(context) {
     return
   }
 
-  const fix = NSClassFromString(frameworkName)
-  if (!fix) {
+  const frameworkClass = NSClassFromString(frameworkName)
+  if (!frameworkClass) {
     log(frameworkName + " NSClassFromString failed")
     return
   }
 
-  if (!fix.fix()) {
+  if (!frameworkClass.fix()) {
     log(frameworkName + " fix failed")
     return
   }
