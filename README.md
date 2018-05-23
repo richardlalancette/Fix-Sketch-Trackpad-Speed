@@ -14,7 +14,7 @@ Read [more details](http://sketchplugins.com/d/481-mscontentdrawview-scrollwheel
 
 ## Install
 
-Via [Sketch Runner](http://sketchrunner.com) or [Sketchpacks](https://sketchpacks.com/pravdomil/FixSketchTrackpadSpeed) or [manual](../../releases).
+Via [Sketch Runner](http://sketchrunner.com) or [Sketchpacks](https://sketchpacks.com/pravdomil/FixSketchTrackpadSpeed) or [manualy](../../releases).
 
 ## Backers
 [Nick Sarafa](https://github.com/nsarafa). 
