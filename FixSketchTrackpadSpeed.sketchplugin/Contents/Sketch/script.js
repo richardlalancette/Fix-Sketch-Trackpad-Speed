@@ -22,5 +22,5 @@ function onStart(context) {
     return
   }
 
-  log(frameworkName + " fixed")
+  log(frameworkName + " OK")
 }
