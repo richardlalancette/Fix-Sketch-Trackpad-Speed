@@ -2,9 +2,9 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-      <title>Version 0.0.14</title>
-      <description>* implement plugin updates</description>
-      <enclosure url="https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed/releases/download/v0.0.14/FixSketchTrackpadSpeed.sketchplugin.zip" sparkle:version="0.0.14"/>
+      <title>Version 0.0.15</title>
+      <description>- minor changes</description>
+      <enclosure url="https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed/releases/download/v0.0.15/FixSketchTrackpadSpeed.sketchplugin.zip" sparkle:version="0.0.15"/>
     </item>
   </channel>
 </rss>
