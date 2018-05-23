@@ -7,20 +7,20 @@ function onStart(context) {
 
   const loaded = mocha.loadFrameworkWithName_inDirectory(frameworkName, directory)
   if (!loaded) {
-    log("FixSketchTrackpadSpeed loadFrameworkWithName failed")
+    log(frameworkName + " loadFrameworkWithName failed")
     return
   }
 
-  const fix = NSClassFromString("FixSketchTrackpadSpeed")
+  const fix = NSClassFromString(frameworkName)
   if (!fix) {
-    log("FixSketchTrackpadSpeed NSClassFromString failed")
+    log(frameworkName + " NSClassFromString failed")
     return
   }
 
   if (!fix.fix()) {
-    log("FixSketchTrackpadSpeed fix failed")
+    log(frameworkName + " fix failed")
     return
   }
 
-  log("FixSketchTrackpadSpeed fixed")
+  log(frameworkName + " fixed")
 }
