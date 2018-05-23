@@ -7,7 +7,7 @@ function onStart(context) {
 
   const loaded = mocha.loadFrameworkWithName_inDirectory(frameworkName, directory)
   if (!loaded) {
-    log(frameworkName + " loadFrameworkWithName failed")
+    log(frameworkName + " loadFrameworkWithName_inDirectory failed")
     return
   }
 
