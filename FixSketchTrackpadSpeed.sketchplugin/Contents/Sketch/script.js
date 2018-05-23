@@ -17,7 +17,7 @@ function onStart(context) {
     return;
   }
 
-  if (![fix fix]) {
+  if (!fix.fix()) {
     log("FixSketchTrackpadSpeed fix failed");
     return;
   }
