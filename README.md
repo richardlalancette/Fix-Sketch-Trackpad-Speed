@@ -2,7 +2,7 @@
 
 # Fix Sketch Trackpad Speed
 
-![gif](gif.gif)
+![gif](res/gif.gif)
 
 
 </div>
