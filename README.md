@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gif.gif" align="right"/>
+![gif](gif.gif)
 
 # Fix Sketch Trackpad Speed
 
