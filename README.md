@@ -1,8 +1,9 @@
 <div align="center">
 
+# Fix Sketch Trackpad Speed
+
 ![gif](gif.gif)
 
-# Fix Sketch Trackpad Speed
 
 </div>
 
