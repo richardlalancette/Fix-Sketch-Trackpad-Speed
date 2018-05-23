@@ -1,6 +1,7 @@
+const frameworkName = "FixSketchTrackpadSpeed";
+
 function onStart(context) {
   const scriptPath = context.scriptPath;
-  const frameworkName = "FixSketchTrackpadSpeed";
   const directory = scriptPath.stringByDeletingLastPathComponent();
   const mocha = Mocha.sharedRuntime()
 
