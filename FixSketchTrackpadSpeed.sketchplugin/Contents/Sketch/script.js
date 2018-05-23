@@ -1,6 +1,6 @@
 function onStart(context) {
   const scriptPath = context.scriptPath;
-  const frameworkName = @"FixSketchTrackpadSpeed";
+  const frameworkName = "FixSketchTrackpadSpeed";
   const directory = [scriptPath stringByDeletingLastPathComponent];
 
   const loaded = [[Mocha sharedRuntime] loadFrameworkWithName:frameworkName inDirectory:directory];
@@ -9,7 +9,7 @@ function onStart(context) {
     return;
   }
 
-  const fix = NSClassFromString(@"FixSketchTrackpadSpeed");
+  const fix = NSClassFromString("FixSketchTrackpadSpeed");
   if (!fix) {
     log("FixSketchTrackpadSpeed NSClassFromString failed");
     return;
