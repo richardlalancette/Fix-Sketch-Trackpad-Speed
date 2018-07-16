@@ -38,8 +38,8 @@
 {
     CGPoint origin = [self scrollOrigin];
     
-    origin.x += event.scrollingDeltaX;
-    origin.y += event.scrollingDeltaY;
+    origin.x += event.scrollingDeltaX * 2;
+    origin.y += event.scrollingDeltaY * 2;
     
     [self scrollToScrollOrigin: origin];
 }
