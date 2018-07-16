@@ -4,6 +4,11 @@
   "productName": "Fix Sketch Trackpad Speed",
   "description": "Sketch plugin that speeds up scrolling across all artboards",
   "homepage": "https://pravdomil.com",
+  "scripts": {
+    "patch_release": "publish-sketch-plugin patch",
+    "minor_release": "publish-sketch-plugin minor",
+    "major_release": "publish-sketch-plugin major"
+  },
   "keywords": [
     "sketch"
   ],
