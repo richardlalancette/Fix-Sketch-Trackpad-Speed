@@ -1,3 +1,6 @@
+## 1.0.0
+- double panning speed
+
 ## 0.0.15
 - minor changes
 
