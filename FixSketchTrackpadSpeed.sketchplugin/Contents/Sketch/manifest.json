@@ -4,7 +4,7 @@
   "author": "pravdomil.com",
   "homepage": "https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed#readme",
   "identifier": "com.pravdomil.FixSketchTrackpadSpeed",
-  "version": "0.0.15",
+  "version": "1.0.0",
   "compatibleVersion": 40,
   "commands": [
     {
@@ -16,5 +16,5 @@
       }
     }
   ],
-  "appcast": "https://raw.githubusercontent.com/pravdomil/Fix-Sketch-Trackpad-Speed/master/.appcast.xml"
+  "appcast": "https://raw.githubusercontent.com/pravdomil/fix-sketch-trackpad-speed/master/.appcast.xml"
 }
