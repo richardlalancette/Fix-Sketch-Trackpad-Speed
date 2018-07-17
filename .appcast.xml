@@ -2,9 +2,9 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-      <title>Version 1.0.0</title>
-      <description>- double panning speed</description>
-      <enclosure url="https://github.com/pravdomil/fix-sketch-trackpad-speed/releases/download/v1.0.0/FixSketchTrackpadSpeed.sketchplugin.zip" sparkle:version="1.0.0"/>
+      <title>Version 1.0.1</title>
+      <description>- fix release</description>
+      <enclosure url="https://github.com/pravdomil/fix-sketch-trackpad-speed/releases/download/v1.0.1/FixSketchTrackpadSpeed.sketchplugin.zip" sparkle:version="1.0.1"/>
     </item>
   </channel>
 </rss>

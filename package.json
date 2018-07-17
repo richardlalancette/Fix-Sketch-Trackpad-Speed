@@ -1,6 +1,6 @@
 {
   "name": "fix-sketch-trackpad-speed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "Fix Sketch Trackpad Speed",
   "description": "Sketch plugin that speeds up scrolling across all artboards",
   "homepage": "https://pravdomil.com",
