@@ -1,3 +1,6 @@
+## 1.0.1
+- fix release
+
 ## 1.0.0
 - double panning speed
 
